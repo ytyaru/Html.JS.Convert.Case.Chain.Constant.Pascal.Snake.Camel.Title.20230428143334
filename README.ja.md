@@ -27,13 +27,15 @@ Constant|Upper Sake|アッパースネーク|
 Camel|Lower Camel|ローワーキャメル|
 Pascal|Upper Camel|アッパーキャメル|
 
+<!--
 # デモ
 
 * [デモ](https://ytyaru.github.io/Html.JS.Convert.Case.Chain.Constant.Pascal.Snake.Camel.Title.20230428143334/)
+-->
 
 # 特徴
 
-* セールスポイント
+* `String`クラスを拡張した
 
 # 開発環境
 
@@ -41,6 +43,7 @@ Pascal|Upper Camel|アッパーキャメル|
 * [Raspbierry Pi](https://ja.wikipedia.org/wiki/Raspberry_Pi) 4 Model B Rev 1.2
 * [Raspberry Pi OS](https://ja.wikipedia.org/wiki/Raspbian) buster 10.0 2020-08-20 <small>[setup](http://ytyaru.hatenablog.com/entry/2020/10/06/111111)</small>
 * bash 5.0.3(1)-release
+* Chromium 92
 
 ```sh
 $ uname -a
