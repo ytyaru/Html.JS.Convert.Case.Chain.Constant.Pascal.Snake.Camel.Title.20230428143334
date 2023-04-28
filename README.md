@@ -8,18 +8,18 @@ An extension of:
 
 * https://github.com/ytyaru/Html.Convert.Case.Snake.Camel.Chain.20220717084321
 
-英名|絵|区切|字種|例(動詞)|例(名詞)|用途
-----|----|--|----|----|--------|--------|----
+Name|Emoji|Delimiter|CharType|Ex Verb|Ex noun|Usage
+----|-----|---------|--------|-------|-------|-----
 Chain|⛓️|`-`|Lower|`get-id`|`my-id`|HTML Element ID, CSS class name
 Snake|🐍|`_`|Lower|`get_id`|`my_id`|Python var name
 Camel|🐫||Capitalize only the first letter of a word. (first word all lowercase)|`getId`|`myId`|JavaScript var, function name
-Constant|🐍|`_`|Upper|`GET_ID`|`MY_ID`|SQLiteテーブル名、列名
+Constant|🐍|`_`|Upper|`GET_ID`|`MY_ID`|SQL table, column name
 Pascal|🐫||Capitalize only the first letter of a word.|`GetId`|`MyId`|JavaScript class name
 Title|🐢|` `|Capitalize only the first letter.|`Get id`|`My id`|HTML Label
 
 It has the following aliases:
 
-名前|別英名
+Name|Alias
 ----|------
 Chain|Kebab
 Snake|Lower Snake
