@@ -79,6 +79,7 @@ A method is added to the `String` class.
 `is{CaseName}()`|Returns true if the string is the specified case
 `caseName()`|Returns the corresponding static class name if the string is any case
 `caseType()`|Returns the corresponding static class if the string is any case
+`capitalize()`|Returns a string with the first character in uppercase and the rest in lowercase
 
 ### is
 

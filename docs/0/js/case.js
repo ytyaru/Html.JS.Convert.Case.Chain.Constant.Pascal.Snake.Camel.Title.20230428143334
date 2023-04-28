@@ -1,3 +1,4 @@
+String.prototype.capitalize = function(str) { return this.charAt(0).toUpperCase() + this.slice(1).toLowerCase() }
 class Chain {
     static is(str) { return str.includes('-') }
     static toSnake(str, isUpper=false) {

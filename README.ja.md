@@ -79,6 +79,7 @@ cd Html.JS.Convert.Case.Chain.Constant.Pascal.Snake.Camel.Title.20230428143334/d
 `isケース名()`|文字列が指定のケースなら真を返す
 `caseName()`|文字列が何かのケースであれば対応するstaticクラス名を返す
 `caseType()`|文字列が何かのケースであれば対応するstaticクラスを返す
+`capitalize()`|一文字目を大文字にして、それ以外を小文字にした文字列を返す
 
 ### is系
 
